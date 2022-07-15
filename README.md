@@ -197,11 +197,6 @@ Home target
 
 
 ##Program:
-/*
- 
-Developed by: J.RAKSHITHA DEVI
-RegisterNumber:212221230082  
-*/
 ```
 
 import sys
